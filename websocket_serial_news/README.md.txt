@@ -1,0 +1,3 @@
+burada biz flutter uygulaması için python ile bir websocket bağlantısının 
+temellerini kurup flutter uygulamasına entegre edeceğiz ve böylelikle
+hem os hem web ve mobil den kontrol sağlamış olacağız...

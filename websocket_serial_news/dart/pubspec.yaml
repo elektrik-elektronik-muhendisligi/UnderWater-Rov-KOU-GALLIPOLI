@@ -1,0 +1,4 @@
+name: websocket_serial_news
+
+dependencies:
+  http:
