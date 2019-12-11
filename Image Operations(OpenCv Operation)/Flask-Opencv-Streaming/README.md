@@ -1,7 +1,10 @@
 flask-opencv-streaming
 =====================
 
-Example on cross-platform video streaming based on [video streaming with Flask](http://blog.miguelgrinberg.com/post/video-streaming-with-flask) article.
+Burada ki Repo da
+Flask ile OpenCv yi birleştirerek anlık bir görüntü almış oluyoruz...
+Bu görüntüyü Flutter a entegre ederek uzaktan bir bağlantı yapmış olacağız... 
+amaçlanmıştır
 
 simply run 
 
