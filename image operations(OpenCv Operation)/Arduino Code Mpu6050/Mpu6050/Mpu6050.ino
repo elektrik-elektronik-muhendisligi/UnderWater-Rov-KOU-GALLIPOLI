@@ -38,7 +38,8 @@ void loop(){
      //Serial.println(Tmp/340.00+36.53);
      //Serial.print("\t");
      //Serial.print("X derece durumu = ");
-     Serial.println(x);
+     Serial.println(y);
      //Serial.println("-------------------------------------------");
+     delay(50);
      
 }

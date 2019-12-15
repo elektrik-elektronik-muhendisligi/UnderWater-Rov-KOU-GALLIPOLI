@@ -1,31 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d13cc35-6dec-48ed-8802-c5ac0294cd8d" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="3d13cc35-6dec-48ed-8802-c5ac0294cd8d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/flask-opencv-streaming-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/flask-opencv-streaming-master.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/android/app/src/main/java/com/example/projectexample/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/android/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/android/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/android/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/android/local.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Flutter/Generated.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/AppDelegate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/GeneratedPluginRegistrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/GeneratedPluginRegistrant.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arduino Code Mpu6050/Mpu6050/Mpu6050.ino" beforeDir="false" afterPath="$PROJECT_DIR$/../Arduino Code Mpu6050/Mpu6050/Mpu6050.ino" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Opencv Stablizator Rov/.idea/Opencv Stablizator Rov.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Opencv Stablizator Rov/.idea/Opencv Stablizator Rov.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Opencv Stablizator Rov/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Opencv Stablizator Rov/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Opencv Stablizator Rov/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Opencv Stablizator Rov/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Opencv Stablizator Rov/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Opencv Stablizator Rov/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Opencv Stablizator Rov/pythonserial.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Opencv Stablizator Rov/pythonserial.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1SLJMJqQxTmxG5C0ejgR3ZkcQ5C" />
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <option value="Python Script" />
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1SLJMJqQxTmxG5C0ejgR3ZkcQ5C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\UnderWater-Rov-KOU-GALLIPOLI\Image Operations(OpenCv Operation)\Flask-Opencv-Streaming" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.pythonserial">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="flask-opencv-streaming-master" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -47,11 +127,111 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="camera" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="flask-opencv-streaming-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/camera.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gamepadconteroller" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="flask-opencv-streaming-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gamepadconteroller.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="flask-opencv-streaming-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pythonserial" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="flask-opencv-streaming-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonserial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pythonserial" />
         <item itemvalue="Python.app" />
+        <item itemvalue="Python.camera" />
+        <item itemvalue="Python.gamepadconteroller" />
+        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -65,5 +245,52 @@
       <updated>1571336892859</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Inspections" timestamp="1576176913537">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1576176913537" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1576197459290">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1576197459290" />
+    <state width="1345" height="154" key="GridCell.Tab.0.bottom" timestamp="1576373200571">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="154" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576373200571" />
+    <state width="1345" height="154" key="GridCell.Tab.0.center" timestamp="1576373200570">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="154" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576373200570" />
+    <state width="1345" height="154" key="GridCell.Tab.0.left" timestamp="1576373200570">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="154" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576373200570" />
+    <state width="1345" height="154" key="GridCell.Tab.0.right" timestamp="1576373200570">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="154" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576373200570" />
+    <state x="1" y="12" width="916" height="716" key="SettingsEditor" timestamp="1576205054248">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="1" y="12" width="916" height="716" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1576205054248" />
+    <state x="384" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1576371005798">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="384" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1576371005798" />
   </component>
 </project>

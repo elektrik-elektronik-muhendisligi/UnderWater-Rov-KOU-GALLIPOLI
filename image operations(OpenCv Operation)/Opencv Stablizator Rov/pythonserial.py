@@ -13,3 +13,5 @@ def pythonSerial():
 
     return port_okunan.decode("ascii")
 
+if __name__=="__main__":
+    pythonSerial()
