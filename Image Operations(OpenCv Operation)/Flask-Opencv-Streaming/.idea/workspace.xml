@@ -1,77 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d13cc35-6dec-48ed-8802-c5ac0294cd8d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/flask-opencv-streaming-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/flask-opencv-streaming-master.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/android/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/android/app/src/main/java/com/example/projectexample/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/android/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/android/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/android/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/android/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/android/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/android/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/android/local.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/android/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Flutter/Debug.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Flutter/Generated.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Flutter/Release.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/AppDelegate.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/AppDelegate.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/GeneratedPluginRegistrant.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/GeneratedPluginRegistrant.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/ios/Runner/main.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/lib/main.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter_websockets-master/pubspec.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arduino Code Mpu6050/Mpu6050/Mpu6050.ino" beforeDir="false" afterPath="$PROJECT_DIR$/../Arduino Code Mpu6050/Mpu6050/Mpu6050.ino" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Opencv Stablizator Rov/.idea/Opencv Stablizator Rov.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Opencv Stablizator Rov/.idea/Opencv Stablizator Rov.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Opencv Stablizator Rov/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Opencv Stablizator Rov/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Opencv Stablizator Rov/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Opencv Stablizator Rov/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Opencv Stablizator Rov/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Opencv Stablizator Rov/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Opencv Stablizator Rov/pythonserial.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Opencv Stablizator Rov/pythonserial.py" afterDir="false" />
-    </list>
+    <list default="true" id="3d13cc35-6dec-48ed-8802-c5ac0294cd8d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,6 +35,18 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\UnderWater-Rov-KOU-GALLIPOLI\Image Operations(OpenCv Operation)\Flask-Opencv-Streaming" />
     </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager" selected="Python.pythonserial">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -220,18 +163,6 @@
         <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
