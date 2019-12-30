@@ -1,6 +1,9 @@
 # UnderWater-Rov-KOU-GALLIPOLI
- Kocaeli Universitesinden GALLIPOLI ROV TEAM olarak burada yaptıgımız DenizAltı aracımızın Yazılımsal-Elektroniksel olarak bilgilerimizi Public olarak paylaşmaktayız...
-
-
-## Takım Resmi 
-![takımresmi](https://raw.githubusercontent.com/harunlakodla/UnderWater-Rov-KOU-GALLIPOLI/master/Our%20Team%20Pictures/WhatsApp%20Image%202019-11-02%20at%205.28.05%20PM.jpeg)
+ 
+ OpenCv de PySerial kullanılarak Seri iletişim ile alınan bilgileri 
+Stabilizator görevi niyetine kullanarak ekranda denge çizgileri olusturmayı
+hedefledik böylelikle Rover ın dengesi hakkında kesin bir bilgi almaya
+çalışmış olduk olduk...
+---------------------------------------
+Flask ile OpenCv yi birleştirerek anlık bir görüntü almış oluyoruz...
+Bu görüntüyü Flutter a entegre ederek uzaktan bir bağlantı yapmış olacağız...
