@@ -3,11 +3,11 @@ from flask import Flask, render_template, Response #burada flask kütüphanesind
 import cv2  # opencv kütüpahensini ekledik
 #import numpy as np
 
-#image =np
-from display_stabilazator import display_stabilazatora
+"""Bu sayfa bize web üzerinden ve aynı zamanda desktop görüntü almamıza yarıyor"""
+
 
 app = Flask(__name__) #flask ı bu saftada entegre ettik
-video = cv2.VideoCapture(1) # opencv kütüpahensi ile
+video = cv2.VideoCapture(0) # opencv kütüpahensi ile
 ''' bu kameradan bilgi almasını istedik'''
 
 'burada sayfaya ilk girildiğinde bize html bilgisini göstermesini istedik'
@@ -23,10 +23,10 @@ def gen():
     while True:
         rval, frame = video.read()
         ret, kare = video.read()
-        resim = display_stabilazatora.DisplayStabilzator(frame)
+        #resim = display_stabilazatora.DisplayStabilzator(frame)
 
         cv2.imwrite('t.jpg', frame)
-        cv2.imshow("Islenmis Video", resim)
+        cv2.imshow("Islenmis Video", frame)
         cv2.imshow("Normal Video", kare)
         yield (b'--frame\r\n'
                b'Content-Type: image/jpeg\r\n\r\n' + open('t.jpg', 'rb').read() + b'\r\n')

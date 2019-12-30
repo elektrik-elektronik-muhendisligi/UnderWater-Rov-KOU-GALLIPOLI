@@ -10,13 +10,14 @@ pytesseract.tesseract_cmd = 'C:\\Program Files (x86)\\Tesseract-OCR\\tesseract.e
 kaynak_yolu=""
 def getText(img_yolu):
     img=cv2.imread(img_yolu)
-    img=cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
+    #img=cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
+    #img=cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
     kernel = np.ones((1,1),np.uint8)
     img = cv2.erode(img,kernel,iterations=1)
     img = cv2.dilate(img , kernel , iterations=1)
     img=cv2.adaptiveThreshold(img,255,cv2.ADAPTIVE_THRESH_GAUSSIAN_C,cv2.THRESH_BINARY,31,2)
-    cv2.imwrite(kaynak_yolu+'gurultusuz.png',img)
-    result = pytesseract.image_to_string(Image.open(kaynak_yolu+'gurultusuz.png'),lang="eng")
+    cv2.imwrite(kaynak_yolu+'e',img)
+    result = pytesseract.image_to_string(Image.open(kaynak_yolu+'e.png'),lang="eng")
     print(result)
     return result
  
